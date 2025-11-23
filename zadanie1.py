@@ -1,5 +1,5 @@
 def kwadrat_liczby(liczba):
-    liczba = liczba**2
+    liczba = liczba ** 2
     return liczba
 
 liczba = float(input("Podaj liczbę: "))

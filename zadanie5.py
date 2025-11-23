@@ -1,5 +1,5 @@
 def bmi(waga, wzrost):
-    bmi = waga / wzrost**2
+    bmi = waga / wzrost ** 2
     bmi_zaokr = round(bmi, 2)
 
     if bmi < 18.5:
